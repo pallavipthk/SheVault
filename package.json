@@ -1,0 +1,21 @@
+{
+  "name": "shevault-ai",
+  "version": "1.0.0",
+  "description": "SHEVAULT AI - Digital Trust & Identity Protection Platform for Women",
+  "main": "run.py",
+  "scripts": {
+    "start": "python run.py",
+    "dev": "uvicorn backend.app:app --reload --host 127.0.0.1 --port 8000",
+    "test": "python backend/test_suite.py"
+  },
+  "keywords": [
+    "shevault",
+    "women-safety",
+    "digital-trust",
+    "identity-protection",
+    "fastapi",
+    "scam-detection"
+  ],
+  "author": "SHEVAULT Team",
+  "license": "MIT"
+}
