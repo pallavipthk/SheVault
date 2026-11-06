@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SHEVAULT AI - Digital Trust & Identity Protection Platform
 
 > **"Verify first. Protect your identity. Participate safely."**
@@ -107,3 +108,6 @@ Or:
 ```bash
 npm test
 ```
+=======
+# SheVault
+>>>>>>> e75afa4d84788ff5f9daf84c81921eb000a3f5ca
