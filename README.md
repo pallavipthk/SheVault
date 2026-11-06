@@ -32,7 +32,6 @@ It analyzes incoming messages, offer letters, contracts, and credential requests
 - [How the Trust Engine Works](#-how-the-trust-engine-works)
 - [Architecture](#-architecture)
 - [Quick Start](#-quick-start)
-- [Demo Accounts](#-demo-accounts)
 - [Configuration](#-configuration)
 - [Running Tests](#-running-tests)
 - [Tech Stack](#-tech-stack)
@@ -127,22 +126,7 @@ npm start
 
 👉 **http://127.0.0.1:8000**
 
----
-
-## 👩‍💻 Demo Accounts
-
-The database ships pre-seeded with test accounts.
-**Password for all demo accounts:** `Password123!`
-
-| Name | Email | Role |
-|---|---|---|
-| Ananya Sharma | `ananya@shevault.ai` | Student |
-| Priya Patel | `priya@shevault.ai` | Freelancer |
-| Ritu Sengupta | `ritu@shevault.ai` | Job Seeker |
-
-You can also create a new account from the **Get Started** modal.
-
-> ⚠️ Demo credentials are for local testing only. Remove or change them before any public deployment.
+Create your account from the **Get Started** modal to begin.
 
 ---
 
